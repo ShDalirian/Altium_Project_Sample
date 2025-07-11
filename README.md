@@ -12,8 +12,9 @@ This repository contains a fully designed and implemented PCB project created us
 ## Visuals
 **Schematic Diagram**:
 ![Image Description](Schematic.png)
-
-**PCB Top & Bottom layers**:
+**PCB Top & Bottom Layers**:
+![Image Description](PCBSchematic_Top&Bottom.png)
+**PCB Top & Bottom 3D**:
 ![Image Description](PCB_TOP.png)
 ![Image Description](PCB_Bottom.png)
 ## Tools & Technologies
