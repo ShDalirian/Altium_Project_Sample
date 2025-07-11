@@ -10,8 +10,12 @@ This repository contains a fully designed and implemented PCB project created us
 - Attention to detail in creating high-quality, error-free designs.
 - Ability to independently complete complex technical projects.
 ## Visuals
-Schematic Diagram
+**Schematic Diagram**:
+![Image Description](Schematic.png)
+
+**PCB Top & Bottom layers**:
 ![Image Description](PCB_TOP.png)
+![Image Description](PCB_Bottom.png)
 ## Tools & Technologies
 - **Altium Designer**: For schematic and PCB design.
 
