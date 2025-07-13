@@ -18,7 +18,7 @@ This repository contains a fully designed and implemented PCB project created us
 ![Image Description](PCB_TOP.png)
 ![Image Description](PCB_Bottom.png)
 ## Tools & Technologies
-- **Altium Designer**: For schematic and PCB design.
+-**Altium Designer**: For schematic and PCB design.
 
 ## Contact me
 If you have any questions or feedback, feel free to reach out:
